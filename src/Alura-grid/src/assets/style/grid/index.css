@@ -3,7 +3,7 @@ body {
     grid-template-areas:
         "aside header"
         "aside main";
-    grid-template-columns: 10% 90%;
+    grid-template-columns: auto 1fr;
 }
 
 .cabecalho {
